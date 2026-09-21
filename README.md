@@ -1,2 +1,1 @@
-# kahoriArt
-this is video
+Linked readme file is `profile/README.md`.
