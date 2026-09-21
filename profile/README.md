@@ -4,8 +4,6 @@
   <video src="https://github.com/user-attachments/assets/944479bc-9346-4b69-92ec-0bc3bb06bd7f" width="100%" autoplay muted playsinline></video>
 </div>
 
-## Introduction
-
 This project is designed to provide a robust, efficient, and highly scalable solution for modern developers. By combining cutting-edge performance with an intuitive workflow, it streamlines production pipelines and eliminates common integration bottlenecks. Explore the documentation below to get started, review the installation steps, and see how you can contribute to the ecosystem.
 
 ## Contact Us
